@@ -1,0 +1,6 @@
+streamlit
+polars
+google-generativeai
+PyMuPDF
+tqdm
+numpy

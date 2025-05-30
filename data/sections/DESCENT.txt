@@ -1,0 +1,50 @@
+DESCENT 
+ECONOMICAL DESCENT 
+RPM 
+Airbrakes 
+retracted 
+IAS 
+300 kts 
+Demist switch 
+ON (no effect in DCS) 
+̴1.5 NM and 2 liters per 1000 ft 
+ 
+ 
+ 
+ 
+OPERATIONAL DESCENT 
+RPM 
+̴6500 
+Flight path slope 
+-10° 
+Airbrakes 
+retracted 
+Mach/IAS 
+0.92 then IAS 450 kts 
+Demist switch 
+ON (no effect in DCS) 
+̴1 NM per 1000 ft 
+FAST DESCENT 
+RPM 
+Airbrakes 
+extended 
+Attitude 
+-20° 
+Demist switch 
+ON (no effect in DCS) 
+ 
+LETDOWN 
+RPM 
+Airbrakes 
+extended 
+IAS 
+300 kts 
+Demist switch 
+ON (no effect in DCS) 
+1 NM and 2 liters per 1000 ft 
+Flight path slope -10° 
+Figure 4-1 Sight approach mode display with airbrakes 
+If rate of descent has to be reduced: retract airbrakes, flight path slope -5° 
+ 
+ 
+Figure 4-2 Sight approach mode display without airbrakes

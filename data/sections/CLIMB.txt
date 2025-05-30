@@ -1,0 +1,19 @@
+CLIMB 
+Subsonic climb schedules 
+clean configuration 
+military thrust 
+IAS 470 kts M 0.92 
+maximum thrust 
+IAS 500 kts M 0.95 
+configuration with two RP 35 drop tanks 
+military thrust 
+IAS 422 kts M 0.84 
+maximum thrust 
+IAS 475 kts M 0.92 
+ 
+supersonic climb schedule 
+climb according to one of the subsonic schedules up to 30,000 ft 
+accelerate up to 610 kts in level flight 
+climb at constant IAS of 610 kts up to 36,000 ft 
+accelerate up to M 1.8 in level flight 
+maintain M 1.8 up to the desired altitude

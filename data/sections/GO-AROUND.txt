@@ -1,0 +1,38 @@
+GO-AROUND 
+o 
+Set full military power. 
+o 
+Establish 12° of attitude. 
+o 
+If necessary, select A/B. 
+o 
+With positive rate of climb, gear up. 
+o 
+At 200 kts, flaps up. 
+ 
+ 
+ 
+ 
+9.5 
+12.5 
+15.5 
+BLUE 
+YELLOW 
+RED 
+L/D max (all down) 
+GREEN 
+ 
+Figure 4-3 Break Pattern 
+ 
+ 
+ 
+END OF BREAK TURN 
+IAS 215 KTS 
+Gear down and locked 
+Flaps down 
+Sight in approach mode 60°BANKINCIDENCE ≤13°IAS  150 kts
+STRAIGHT LINE 
+FINAL APPROACH 
+RPM > 7000 1 NM
+ 
+Figure 4-4 GCA or ILS Pattern

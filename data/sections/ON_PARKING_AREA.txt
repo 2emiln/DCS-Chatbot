@@ -1,0 +1,87 @@
+ON PARKING AREA 
+ 
+1 PARKING BRAKE 
+SET 
+ 
+With RPM stabilized at idle. From left to right: 
+2 UHF 
+OFF 
+ 
+3 V/UHF 
+OFF 
+ 
+4 INTERCOM CONTROL BOX 
+AMPLI 1 
+ 
+5 U/C CONTROL LEVER SAFETY 
+IN PLACE 
+ 
+6 STANDBY HORIZON 
+CAGED 
+ 
+7 NAVIGATION INDICATOR 
+OFF 
+ 
+8 STANDBY HORIZON SWITCH 
+OFF 
+ 
+9 ELECTRO-PUMP SWITCH 
+OFF 
+ 
+10 WARNING HORN SWITCH 
+OFF 
+ 
+11 PROBE HEATER SWITCH 
+OFF 
+ 
+12 RADAR DETECTOR SWITCH 
+OFF 
+ 
+13 SEARCH LIGHT SWITCH 
+OFF 
+ 
+14 SIGHT SELECTOR 
+OFF 
+ 
+15 RADAR 
+OFF 
+ 
+16 ARMAMENT CONTROL PANEL 
+PUSHBUTTONS RELEASED 
+ 
+17 GYRO REFERENCE SYSTEM 
+OFF 
+Heading and vertical reference system control switch to off. 
+ 
+18 EMERGENCY GYROMAGNETIC COMPASS 
+OFF 
+Heading and vertical emergency gyromagnetic compass switch to off. 
+ 
+19 VOR/ILS 
+OFF 
+ 
+20 OXYGEN 
+CHECK REMAINING QUANTITY 
+ 
+21 AIR CONDITIONING 
+OFF 
+Master valve control switch to off 
+ 
+22 THROTTLE 
+STOP 
+ 
+23 CHRONO 
+START 
+Start timing the engine run-down time. Wait for the engine to stop rotating. 
+ 
+24 LP PUMPS (ALL THREE) 
+OFF 
+ 
+25 LP MAIN COCK SWITCH  
+OFF 
+ 
+26 BATTERY + NIGHT LIGHTING 
+OFF 
+ 
+27 CANOPY 
+OPEN

@@ -1,0 +1,16 @@
+BEFORE TAXI 
+1 EJECTION HANDLE SAFETY PIN 
+REMOVED 
+ 
+2 SLAVED ALTIMETER 
+SET 
+ 
+3 STANDBY ALTIMETER 
+SET 
+ 
+4 PARKING BRAKE 
+RELEASE 
+ 
+5 BRAKES 
+CHECK 
+Advance throttle at 6000 RPM, start rolling and then apply brakes.

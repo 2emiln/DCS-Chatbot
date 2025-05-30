@@ -1,0 +1,819 @@
+[AFTER CLEARING THE RUNWAY_1 | AFTER CLEARING THE RUNWAY | steps 1-10]
+AFTER CLEARING THE RUNWAY
+
+2 EJECTION HANDLE SAFETY PIN 
+INSTALLED
+
+3 DEMIST SWITCH 
+OFF
+
+4 TACAN 
+OFF
+
+5 RADAR 
+STBY
+
+6 IFF 
+OFF
+
+7 SLATS AND FLAPS 
+UP
+
+8 HIGH-LIFT DEVICE SELECTOR SWITCH 
+OFF
+
+9 TRIMS 
+NEUTRAL
+
+10 FLIGHT CONTROL, COMBAT HIGH-LIFT DEVICE 
+AND AUTOPILOT INTERLOCK TEST 
+PERFORM 
+This test is performed after the first flight of the day.
+
+============================================================
+
+[AFTER CLEARING THE RUNWAY_2 | AFTER CLEARING THE RUNWAY | steps 11-12]
+11 AUXILIARY SERVOCONTROL BARREL 2 TEST 
+PERFORM 
+This test is performed weekly.
+
+12 EMERGENCY REGULATION TEST 
+PERFORM 
+This test is performed weekly.
+
+============================================================
+
+[AFTER START_1 | AFTER START | steps 1-10]
+AFTER START
+
+1 HIGH-LIFT DEVICE SELECTOR SWITCH 
+NORMAL
+
+2 COMBAT FLAP LEVER 
+IN
+
+3 UHF RADIO 
+ON
+
+4 SLAT/FLAP LEVER 
+FULL AFT
+
+5 V/UHF RADIO 
+ON
+
+6 25W - 5W SWITCH 
+5W
+
+7 INVERTER SELECTOR SWITCH 
+RESET
+
+8 SERVOS 
+RESET
+
+9 TRIMS 
+TESTED and NEUTRAL
+
+============================================================
+
+[AFTER START_2 | AFTER START | steps 11-20]
+10 HYDRAULIC PRESSURES 
+CHECKED
+
+11 IFF 
+SBY
+
+12 NAVIGATION INDICATOR 
+AS REQUIRED 
+Mode selector switch in VT, TE or TT.
+
+13 STANDBY HORIZON SWITCH 
+ON
+
+14 ELECTRO-PUMP SWITCH 
+ON
+
+15 WARNING HORN SWITCH 
+CHECK ON
+
+16 PROBE HEATER SWITCH 
+ON
+
+17 RADAR DETECTOR SWITCH 
+ON
+
+18 SEARCH LIGHT SWITCH 
+AS REQUIRED
+
+19 SIGHT SELECTOR 
+AS REQUIRED 
+ON or APP.
+
+============================================================
+
+[AFTER START_3 | AFTER START | steps 21-30]
+20 RADAR SELECTOR 
+STANDBY
+
+21 HEADING AND VERTICAL REFERENCE SYSTEM 
+CONTROL SWITCH 
+GM
+
+22 HEADING AND VERTICAL EMERGENCY 
+GYROMAGNETIC COMPASS SWITCH 
+ON
+
+23 TACAN 
+REC
+
+24 VOR/ILS 
+ON
+
+25 VOR-ILS/OFF/TACAN SELECTOR 
+VOR/ILS OR TACAN
+
+26 AIR COND. MASTER VALVE CONTROL SWITCH 
+ON
+
+27 TEMPERATURE CONTROL RHEOSTAT 
+AUTO
+
+28 STANDBY HORIZON 
+UNCAGE
+
+29 RADAR DETECTOR WARNING PANEL 
+TESTED - TONE ADJUSTED
+
+============================================================
+
+[AFTER START_4 | AFTER START | steps 31-31]
+30 FLIGHT CONTROLS 
+CHECK FREE AND FULL DEFLECTION
+
+============================================================
+
+[BEFORE LINE-UP_1 | BEFORE LINE-UP | steps 1-10]
+BEFORE LINE-UP
+
+1 HELMET VISOR 
+LOWERED
+
+2 CANOPY 
+CLOSED AND LOCKED (P.CAB LIGHT OUT)
+
+3 FAILURE WARNING PANEL LIGHTS 
+OUT
+
+4 HARNESS 
+ADJUSTED AND LOCKED
+
+5 RADAR 
+TRANSMISSION
+
+6 TACAN 
+T/R
+
+7 SLATS AND FLAPS 
+CHECK EXTENDED
+
+8 EMERGENCY REGULATION LIGHT 
+OUT 
+ 
+Before the first flight of the day, perform the emergency regulation test:
+
+9 THROTTLE 
+IDLE
+
+============================================================
+
+[BEFORE LINE-UP_2 | BEFORE LINE-UP | steps 11-14]
+10 EMERGENCY REGULATION SWITCH 
+ON
+
+11 EMERGENCY REGULATION LIGHT 
+CHECK ON 
+Increase engine RPM by blipping the emergency regulation control lever.
+
+12 EMERGENCY REGULATION SWITCH 
+OFF
+
+13 EMERGENCY REGULATION LIGHT 
+CHECK OUT 
+Check that RPM return to 2900 ±100
+
+============================================================
+
+[BEFORE TAXI_1 | BEFORE TAXI | steps 1-6]
+BEFORE TAXI
+
+1 EJECTION HANDLE SAFETY PIN 
+REMOVED
+
+2 SLAVED ALTIMETER 
+SET
+
+3 STANDBY ALTIMETER 
+SET
+
+4 PARKING BRAKE 
+RELEASE
+
+5 BRAKES 
+CHECK 
+Advance throttle at 6000 RPM, start rolling and then apply brakes.
+
+============================================================
+
+[CABIN CHECKS_1 | CABIN CHECKS | steps 1-10]
+CABIN CHECKS
+
+1 CABIN LIGHTING RHEOSTATS 
+AS REQUIRED
+
+2 EMERGENCY FUEL TRANSFER SWITCH 
+OFF
+
+3 JPT EMERGENCY REGULATION SWITCH 
+AUTO
+
+4 A/B MAIN COCK SWITCH 
+ON (GUARDED)
+
+5 IN-FLIGHT RELIGHT CONTROL 
+AFT
+
+6 COMBAT FLAP LEVER 
+IN
+
+7 ANTI-SKID (SPAD) SWITCH 
+ON (GUARDED)
+
+8 HIGH-LIFT DEVICE SELECTOR SWITCH 
+OFF
+
+9 IGNITION/VENTILATION SELECTOR SWITCH 
+L/H OR R/H
+
+============================================================
+
+[CABIN CHECKS_2 | CABIN CHECKS | steps 11-20]
+10 STARTING PUMP SWITCH 
+OFF
+
+11 R/H LP PUMP SWITCH 
+OFF
+
+12 L/H LP PUMP SWITCH 
+OFF
+
+13 LP MAIN COCK SWITCH 
+CLOSED (UNGUARDED)
+
+14 EMERGENCY REGULATION SWITCH 
+OFF (GUARDED)
+
+15 LANDING LIGHT CONTROL 
+OFF
+
+16 U/C CONTROL LEVER 
+DOWN
+
+17 YAW/ANTI-SLIP SWITCH 
+ANTI-SLIP
+
+18 PITCH SWITCH 
+ON
+
+19 ARTHUR SELECTOR SWITCH 
+AUTO (GUARDED)
+
+============================================================
+
+[CABIN CHECKS_3 | CABIN CHECKS | steps 21-30]
+20 STICK UNCOUPLE SWITCH 
+OFF (GUARDED)
+
+21 HYDRAULIC PRESSURE SELECTOR SWITCH
+
+1 SERVOS 2
+
+22 BRAKE CHUTE CONTROL 
+FORWARD
+
+23 CANOPY EMBRITTLE CONTROL 
+AFT
+
+24 SHOCK-CONE PUSHBUTTON 
+DEPRESSED
+
+25 NOSE WHEEL STEERING SWITCH 
+ON (GUARDED)
+
+26 NOSE WHEEL STEERING HIGH SENSITIVITY 
+BUTTON 
+DEPRESSED
+
+27 ARMAMENT CONTROL PANEL SELECT 
+PUSHBUTTONS 
+RELEASED
+
+28 INSTANTANEOUS/DELAY/SAFE SELECTOR 
+SWITCH 
+SAFE
+
+============================================================
+
+[CABIN CHECKS_4 | CABIN CHECKS | steps 31-40]
+29 MATRA 550 MISSILE SWITCH 
+OFF
+
+30 EMERGENCY TRANSFER SWITCH 
+OFF
+
+31 CROSSFEED SWITCH 
+OFF
+
+32 EMERGENCY U/C HANDLE 
+IN AND FOLDER BACK
+
+33 ALTERNATOR 1 AND ALTERNATOR 2 
+SWITCHES 
+ON
+
+34 INVERTER SELECTOR SWITCH 
+AUTO
+
+35 CANOPY SEAL VALVE CONTROL LEVER 
+INFLATE (FORWARD)
+
+36 RAM AIR SWITCH 
+OFF (GUARDED)
+
+37 CABIN TEMPERATURE CONTROL RHEOSTAT 
+AUTO
+
+38 EMERGENCY COLD SWITCH 
+OFF
+
+============================================================
+
+[CABIN CHECKS_5 | CABIN CHECKS | steps 41-41]
+39 AUTO/MANUAL SELECTOR SWITCH 
+AUTO
+
+============================================================
+
+[CEILING_1 | CEILING | steps 1-1]
+CEILING 
+Limited to 50,000 ft for safety reasons.
+
+============================================================
+
+[CLIMB_1 | CLIMB | steps 1-1]
+CLIMB 
+Subsonic climb schedules 
+clean configuration 
+military thrust 
+IAS 470 kts M 0.92 
+maximum thrust 
+IAS 500 kts M 0.95 
+configuration with two RP 35 drop tanks 
+military thrust 
+IAS 422 kts M 0.84 
+maximum thrust 
+IAS 475 kts M 0.92 
+ 
+supersonic climb schedule 
+climb according to one of the subsonic schedules up to 30,000 ft 
+accelerate up to 610 kts in level flight 
+climb at constant IAS of 610 kts up to 36,000 ft 
+accelerate up to M 1.8 in level flight 
+maintain M 1.8 up to the desired altitude
+
+============================================================
+
+[COMBAT_1 | COMBAT | steps 1-1]
+COMBAT 
+1- Auto slats 
+High-lift device selector 
+NORMAL 
+ 
+2- Combat slats and flaps 
+High-lift device selector 
+NORMAL 
+Normal operation of combat slats and flaps is manual. 
+ 
+Combat flap lever 
+AS REQUIRED 
+Extend or retract as needed within the combat flap envelope (300 kts M 0.75) 
+Use preselection out of the envelope only during momentary maneuvers, and never 
+beyond M 0.9. The flaps will retract and extend by the interlocks.  
+Retract the combat flap lever when maneuvering definitively out of the envelope, in 
+particular if Mach exceeds 0.9.
+
+============================================================
+
+[CRUISE_1 | CRUISE | steps 1-1]
+CRUISE 
+The navigation parameters (altitude and IAS) and the loading parameters (external stores), 
+selected according to the mission, greatly affect the flight time and fuel consumption.
+
+============================================================
+
+[DESCENT_1 | DESCENT | steps 1-4]
+DESCENT 
+ECONOMICAL DESCENT 
+RPM 
+Airbrakes 
+retracted 
+IAS
+
+300 kts 
+Demist switch 
+ON (no effect in DCS) 
+̴1.5 NM and 2 liters per 1000 ft 
+ 
+ 
+ 
+ 
+OPERATIONAL DESCENT 
+RPM 
+̴6500 
+Flight path slope 
+-10° 
+Airbrakes 
+retracted 
+Mach/IAS 
+0.92 then IAS 450 kts 
+Demist switch 
+ON (no effect in DCS) 
+̴1 NM per 1000 ft 
+FAST DESCENT 
+RPM 
+Airbrakes 
+extended 
+Attitude 
+-20° 
+Demist switch 
+ON (no effect in DCS) 
+ 
+LETDOWN 
+RPM 
+Airbrakes 
+extended 
+IAS
+
+300 kts 
+Demist switch 
+ON (no effect in DCS)
+
+1 NM and 2 liters per 1000 ft 
+Flight path slope -10° 
+Figure 4-1 Sight approach mode display with airbrakes 
+If rate of descent has to be reduced: retract airbrakes, flight path slope -5° 
+ 
+ 
+Figure 4-2 Sight approach mode display without airbrakes
+
+============================================================
+
+[DURING TAXIING_1 | DURING TAXIING | steps 1-4]
+DURING TAXIING
+
+1 IFF 
+TEST
+
+2 ADJUST RADAR AND SIGHT 
+AS REQUIRED
+
+3 STANDBY HORIZON 
+MINIATURE AIRPLANE ADJUSTED
+
+============================================================
+
+[ENTERING COCKPIT_1 | ENTERING COCKPIT | steps 1-9]
+ENTERING COCKPIT
+
+1 EXTERIOR INSPECTION 
+PERFORMED
+
+2 PARKING BRAKE 
+SET
+
+3 RUDDER PEDALS 
+ADJUSTED
+
+4 STRAP IN, PUT ON HELMET, CONNECT MASK 
+PERFORMED
+
+5 BATTERY 
+ON
+
+6 WARNING HORN 
+ON
+
+7 SEAT HEIGHT 
+ADJUST
+
+8 OXYGEN 
+CHECK
+
+============================================================
+
+[GO-AROUND_1 | GO-AROUND | steps 1-1]
+GO-AROUND 
+o 
+Set full military power. 
+o 
+Establish 12° of attitude. 
+o 
+If necessary, select A/B. 
+o 
+With positive rate of climb, gear up. 
+o 
+At 200 kts, flaps up. 
+ 
+ 
+ 
+ 
+9.5 
+12.5 
+15.5 
+BLUE 
+YELLOW 
+RED 
+L/D max (all down) 
+GREEN 
+ 
+Figure 4-3 Break Pattern 
+ 
+ 
+ 
+END OF BREAK TURN 
+IAS 215 KTS 
+Gear down and locked 
+Flaps down 
+Sight in approach mode 60°BANKINCIDENCE ≤13°IAS  150 kts
+STRAIGHT LINE 
+FINAL APPROACH 
+RPM > 7000 1 NM
+ 
+Figure 4-4 GCA or ILS Pattern
+
+============================================================
+
+[LANDING_1 | LANDING | steps 1-1]
+LANDING 
+o 
+Set the sight selector in simplified attitude reticle (velocity vector function). 
+o 
+Place the velocity vector on the runway threshold. 
+o 
+Indicence: 9° - 11°. 
+o 
+Glide slope: 2.5° ±1°. 
+o 
+RPM: 7300 ±300. 
+o 
+After touchdown: i   ̴ 13°. It is advantageous to use aerodynamic braking by holding the nose 
+high down to 120 kts. 
+o 
+Fully close the throttle. 
+o 
+The nose wheel steering high sensitivity mode can be used as required, by depressing the 
+button. 
+o 
+Consider the use of the brake chute.
+
+============================================================
+
+[ON PARKING AREA_1 | ON PARKING AREA | steps 1-10]
+ON PARKING AREA
+
+1 PARKING BRAKE 
+SET 
+ 
+With RPM stabilized at idle. From left to right:
+
+2 UHF 
+OFF
+
+3 V/UHF 
+OFF
+
+4 INTERCOM CONTROL BOX 
+AMPLI 1
+
+5 U/C CONTROL LEVER SAFETY 
+IN PLACE
+
+6 STANDBY HORIZON 
+CAGED
+
+7 NAVIGATION INDICATOR 
+OFF
+
+8 STANDBY HORIZON SWITCH 
+OFF
+
+9 ELECTRO-PUMP SWITCH 
+OFF
+
+============================================================
+
+[ON PARKING AREA_2 | ON PARKING AREA | steps 11-20]
+10 WARNING HORN SWITCH 
+OFF
+
+11 PROBE HEATER SWITCH 
+OFF
+
+12 RADAR DETECTOR SWITCH 
+OFF
+
+13 SEARCH LIGHT SWITCH 
+OFF
+
+14 SIGHT SELECTOR 
+OFF
+
+15 RADAR 
+OFF
+
+16 ARMAMENT CONTROL PANEL 
+PUSHBUTTONS RELEASED
+
+17 GYRO REFERENCE SYSTEM 
+OFF 
+Heading and vertical reference system control switch to off.
+
+18 EMERGENCY GYROMAGNETIC COMPASS 
+OFF 
+Heading and vertical emergency gyromagnetic compass switch to off.
+
+19 VOR/ILS 
+OFF
+
+============================================================
+
+[ON PARKING AREA_3 | ON PARKING AREA | steps 21-28]
+20 OXYGEN 
+CHECK REMAINING QUANTITY
+
+21 AIR CONDITIONING 
+OFF 
+Master valve control switch to off
+
+22 THROTTLE 
+STOP
+
+23 CHRONO 
+START 
+Start timing the engine run-down time. Wait for the engine to stop rotating.
+
+24 LP PUMPS (ALL THREE) 
+OFF
+
+25 LP MAIN COCK SWITCH  
+OFF
+
+26 BATTERY + NIGHT LIGHTING 
+OFF
+
+27 CANOPY 
+OPEN
+
+============================================================
+
+[PATTERNS_1 | PATTERNS | steps 1-1]
+PATTERNS 
+In straight flight, an aircraft always stalls at the same incidence (angle of attack, AoA), regardless of the 
+weight, while the stall speed depends on the weight. 
+During approach, set the aircraft in landing configuration, allow the incidence to increase up to 10° and 
+note the corresponding speed. In the final turn, adjust power to keep that speed. Use the incidence 
+indicator as a reference (12° - 13°, green light on). 
+Relation between i and IAS at n=1 versus weight 
+Incidence 
+readings 
+IAS versus weight 
+* 
+8700 kg 
+** 
+11000 kg 
+*** 
+±100 kg 
+ 
+ 
+±0.85 
+ 
+Optimum (all down) 
+ 
+Watch rpm 
+Touchdown 
+ 
+Keel limits 
+ 
+Limit 
+* 
+Without external stores and 1000 liters remaining 
+With drop tanks empty and 500 liters remaining 
+** 
+Wing tanks empty (maximum landing weight) 
+*** 
+±100 kg = ±125 liters 
+Table 4-1 Indicence Indicator
+
+============================================================
+
+[RETURNING TO PARKING AREA_1 | RETURNING TO PARKING AREA | steps 1-2]
+RETURNING TO PARKING AREA
+
+1 NOSE WHEEL STEERING HIGH SENSITIVITY 
+BUTTON 
+HIGH SENSITIVITY (BUTTON DEPRESSED)
+
+============================================================
+
+[STARTUP_1 | STARTUP | steps 1-10]
+STARTUP
+
+1 CANOPY 
+CLOSED OR PARTIALLY OPEN
+
+2 CANOPY LOCK CONTROL 
+FORWARD 
+Move it forward when the canopy is fully closed
+
+3 PARKING BRAKE 
+SET
+
+4 LP MAIN COCK 
+OPEN
+
+5 L/H AND R/H LP PUMPS 
+ON
+
+6 IGNITION/VENTILATION SELECTOR 
+IGNITION 
+Switch to other plug, left or neutral position of the switch, to permit alternate use of the plugs upon 
+starting.
+
+7 STARTER BUTTON GUARD 
+LIFT 
+The starting pump switches on.
+
+8 STARTER BUTTON 
+DEPRESS FOR 1 SEC
+
+9 Between 300 and 600 RPM 
+THROTTLE TO IDLE
+
+============================================================
+
+[TAKEOFF_1 | TAKEOFF | steps 1-1]
+TAKEOFF 
+o 
+Apply full power with AB. 
+o 
+Keep the runway centerline with the nose wheel steering. Be gentle with the rudder. 
+o 
+Rotate at 120 kts and establish the takeoff attitude of approx. 12°. 
+o 
+The aircraft becomes airborne at approx. 150 kt. 
+o 
+Retract the landing gear. 
+o 
+Retract the flaps at 200 kts. 
+o 
+AB off at 300 kts.
+
+============================================================
+
+[USE OF THE AUTOPILOT_1 | USE OF THE AUTOPILOT | steps 1-1]
+USE OF THE AUTOPILOT 
+The autopilot is engaged by depressing the “PA” pushbutton while holding the autopilot disconnect trigger 
+depressed on the control stick grip.  
+The autopilot connects initially in basic functions (attitude hold) and PA illuminates. 
+The autopilot modes are: 
+ 
+Altitude Hold Mode (ALT) 
+ 
+Heading Hold Mode (CAP) 
+ 
+Localizer Mode (R) 
+ 
+Glide Slope Mode (G) 
+They are connected by pressing the corresponding pushbutton ALT (altitude), CAP (heading), R (runway) 
+or G (glide slope). 
+When passing through the transonic range the autopilot reverts to basic functions. 
+Pressing the autopilot disengage lever or the PA pushbutton disengages the autopilot. 
+Pressing the autopilot disconnect trigger the autopilot reverts to basic functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4-5 Autopilot Control and Indicator Unit
+
+============================================================
+

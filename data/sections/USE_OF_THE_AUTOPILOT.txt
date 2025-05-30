@@ -1,0 +1,25 @@
+USE OF THE AUTOPILOT 
+The autopilot is engaged by depressing the “PA” pushbutton while holding the autopilot disconnect trigger 
+depressed on the control stick grip.  
+The autopilot connects initially in basic functions (attitude hold) and PA illuminates. 
+The autopilot modes are: 
+ 
+Altitude Hold Mode (ALT) 
+ 
+Heading Hold Mode (CAP) 
+ 
+Localizer Mode (R) 
+ 
+Glide Slope Mode (G) 
+They are connected by pressing the corresponding pushbutton ALT (altitude), CAP (heading), R (runway) 
+or G (glide slope). 
+When passing through the transonic range the autopilot reverts to basic functions. 
+Pressing the autopilot disengage lever or the PA pushbutton disengages the autopilot. 
+Pressing the autopilot disconnect trigger the autopilot reverts to basic functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4-5 Autopilot Control and Indicator Unit

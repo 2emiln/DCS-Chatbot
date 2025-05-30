@@ -1,0 +1,36 @@
+PATTERNS 
+In straight flight, an aircraft always stalls at the same incidence (angle of attack, AoA), regardless of the 
+weight, while the stall speed depends on the weight. 
+During approach, set the aircraft in landing configuration, allow the incidence to increase up to 10° and 
+note the corresponding speed. In the final turn, adjust power to keep that speed. Use the incidence 
+indicator as a reference (12° - 13°, green light on). 
+Relation between i and IAS at n=1 versus weight 
+Incidence 
+readings 
+IAS versus weight 
+* 
+8700 kg 
+** 
+11000 kg 
+*** 
+±100 kg 
+ 
+ 
+±0.85 
+ 
+Optimum (all down) 
+ 
+Watch rpm 
+Touchdown 
+ 
+Keel limits 
+ 
+Limit 
+* 
+Without external stores and 1000 liters remaining 
+With drop tanks empty and 500 liters remaining 
+** 
+Wing tanks empty (maximum landing weight) 
+*** 
+±100 kg = ±125 liters 
+Table 4-1 Indicence Indicator

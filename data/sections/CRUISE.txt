@@ -1,0 +1,3 @@
+CRUISE 
+The navigation parameters (altitude and IAS) and the loading parameters (external stores), 
+selected according to the mission, greatly affect the flight time and fuel consumption.

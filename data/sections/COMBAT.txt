@@ -1,0 +1,17 @@
+COMBAT 
+1- Auto slats 
+High-lift device selector 
+NORMAL 
+ 
+2- Combat slats and flaps 
+High-lift device selector 
+NORMAL 
+Normal operation of combat slats and flaps is manual. 
+ 
+Combat flap lever 
+AS REQUIRED 
+Extend or retract as needed within the combat flap envelope (300 kts M 0.75) 
+Use preselection out of the envelope only during momentary maneuvers, and never 
+beyond M 0.9. The flaps will retract and extend by the interlocks.  
+Retract the combat flap lever when maneuvering definitively out of the envelope, in 
+particular if Mach exceeds 0.9.

@@ -1,0 +1,21 @@
+LANDING 
+o 
+Set the sight selector in simplified attitude reticle (velocity vector function). 
+o 
+Place the velocity vector on the runway threshold. 
+o 
+Indicence: 9° - 11°. 
+o 
+Glide slope: 2.5° ±1°. 
+o 
+RPM: 7300 ±300. 
+o 
+After touchdown: i   ̴ 13°. It is advantageous to use aerodynamic braking by holding the nose 
+high down to 120 kts. 
+o 
+Fully close the throttle. 
+o 
+The nose wheel steering high sensitivity mode can be used as required, by depressing the 
+button. 
+o 
+Consider the use of the brake chute.
