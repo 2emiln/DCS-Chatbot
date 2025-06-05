@@ -1,9 +1,12 @@
-# Mirage F1 RAG Chatbot
+# Mirage F1 RAG Chatbot 
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot for answering questions about the Mirage F1 flight manual, specifically Chapter 4: Checklists and Procedures.
 
 It uses the Gemini API to semantically embed and retrieve information from the manual, and answer questions via a Streamlit web app.
 
+As this is a work in progress there will be things that are not accurate. 
+
+This project will expand to more DCS manuals overtime.
 ---
 
 ## Features
